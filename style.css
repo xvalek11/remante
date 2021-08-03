@@ -1,0 +1,152 @@
+#menu {
+	margin-top: -30px;
+
+}
+#bg{
+	background-image: url("nurse2.png");
+}
+#med
+{
+	background-image: url("med.png");
+}
+#bg h1{
+	margin-left: 70px;
+	font-size: 50px;
+	
+
+}
+#bg p{
+	margin-left:70px;
+
+
+
+}
+.col{
+	 background:rgba(0,0,0,0.6);
+}
+
+
+.col-sm-4 {
+    background-color: #e3e3e3;
+    border-radius: 15px 15px 15px 15px;
+     text-align: center;
+    padding-top: 0px;
+}
+
+.col-md-6 {
+    background-color: #f5f3f3;
+}
+
+
+
+.col-md-2 {
+    border-radius: 0 15px 15px 0;
+}
+.tabs{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.sele{
+   margin-top: 30px;
+   border-radius: 10px 10px 10px 10px;
+   width: 200px;
+   text-align: center;
+
+
+}
+.full{
+	width: 400px;
+	margin: auto;
+}
+#log{
+	position: fixed;
+    bottom: 10px;
+    right: 10px;
+
+}
+.rows{
+  margin-top: 10px;
+}
+.bots{
+	margin-bottom: 50px;
+}
+.zakroks{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 600px;
+	margin: auto;
+}
+.wid{
+	width: 400px;
+}
+.rows2
+{
+	padding-bottom: 55px;
+}
+.box{
+	margin-left: 30px;
+}
+.boxz
+{
+	width: 360px;
+}
+.ali{
+	padding-top: 10px;
+	float: none;
+   margin: auto;
+
+ 
+	
+}
+.slideshow{
+
+    
+	opacity: 0;
+	transition: opacity 2s linear;
+}
+.myslidesw > .slideshow:first-child {
+	opacity: 1;
+}
+.myslidesw
+{
+	position: relative;
+	margin: auto;
+	padding-top: 50px;
+	width: 700px;
+	height: 550px;
+}
+.myslidesw img{
+	border-radius: 40px;
+    
+    position:absolute;
+
+   max-height:550px;
+   max-width:700px;
+   
+}
+.box .table > tbody > tr > td
+{
+	vertical-align: middle;
+}
+.mrg {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.index {
+	margin-right: 250px;
+	margin-top: 30px;
+
+}
+
+tr.rows1>td {
+  padding-bottom: 5px;
+}
+.lab {
+
+	text-align: right;
+	font-family: "Times New Roman", Times, serif;
+	 font-size: 30px;
+	margin-right: 130px;
+	margin-top: 30px;
+}
